@@ -83,4 +83,4 @@ Current_Focus:
 
 
 
-Luôn học hỏi trau dồi bản thân mỗi ngày để tốt hơn
+Luôn học hỏi, lắng nghe , trau dồi bản thân mỗi ngày để tốt hơn mỗi ngày !
