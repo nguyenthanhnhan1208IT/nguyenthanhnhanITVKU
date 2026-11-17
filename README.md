@@ -1,19 +1,6 @@
 
 
 
-<p align="center">
-  <a href="https://git.io">
-    <img src="https://herokuapp.com+🚀;Sinh+viên+CNTT+-+Đại+học+CNTT+Việt+-+Hàn+(VKU);Đam+mê+lập+trình+Full+Stack+Web;Định+hướng+Cloud+Computing+%26+DevOps" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com" alt="nguyenthanhnhan1208IT" />
-  <img src="https://shields.io" alt="Focus" />
-  <img src="https://shields.io" alt="VKU" />
-</p>
-
----
 
 ### <img src="https://herokuapp.com👨‍💻+ABOUT+ME+(GIỚI+THIỆU)" alt="About Me" />
 
