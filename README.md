@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://vercel.app|%20Full%20Stack%20%26%20Cloud%20Engineer&descAlignY=62&descSize=16&animation=fadeIn" width="100%" />
 </div>
+<img width="858" height="1908" alt="image" src="https://github.com/user-attachments/assets/bbcd9f16-1e0b-4365-b5c9-0eec275b2363" />
 ![Uploading image.png…]()
 
 <p align="center">
