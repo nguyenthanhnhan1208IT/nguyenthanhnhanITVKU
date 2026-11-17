@@ -1,15 +1,3 @@
-### <img src="https://herokuapp.com👨‍💻+ABOUT+ME+(GIỚI+THIỆU)" alt="About Me" />
-
-<img align="right" width="160" src="./avatar.png" alt="NGUYỄN THÀNH NHÂN" />
-
-- 🎓 **Học vấn:** Sinh viên Công nghệ Thông tin - **ĐH CNTT & Truyền thông Việt - Hàn (VKU)**, Đà Nẵng.
-- 🚀 **Định hướng:** **Full Stack Developer** & **Cloud Engineer**.
-- 💡 **Đam mê:** Xây dựng ứng dụng Web hiện đại, hạ tầng đám mây, microservices và tự động hóa.
-- 🌱 **Đang tìm hiểu:** Kiến trúc Cloud (AWS/GCP), Docker, Kubernetes và các framework Full Stack.
-- 📫 **Liên hệ:** `nguyenthanhnhan1208it@gmail.com`
-
-<br clear="right"/>
-
 
 
 
