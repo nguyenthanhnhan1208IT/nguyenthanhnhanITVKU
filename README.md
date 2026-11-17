@@ -20,7 +20,7 @@
 - 🚀 **Career Goal:** Aspiring **Full Stack Developer** & **Cloud Engineer**.
 - 💡 **Interests:** Building scalable web applications, cloud infrastructure, microservices, and automation.
 - 🌱 **Currently Learning:** Cloud Architecture (AWS/GCP), Docker, Kubernetes, and modern Full Stack frameworks.
-- 📫 **How to reach me:** `nguyenthanhnhan1208it@gmail.com` *(Cập nhật lại email chính xác của bạn nếu khác)*
+- 📫 **How to reach me:** ntnhan2112px@gmail.com` *(Cập nhật lại email chính xác của bạn nếu khác)*
 
 ---
 
@@ -82,4 +82,4 @@
 <div align="center">
   <img src="https://vercel.app" width="100%" />
 </div>
-
+Luôn học hỏi trau dồi bản thân mỗi ngày để tốt hơn
