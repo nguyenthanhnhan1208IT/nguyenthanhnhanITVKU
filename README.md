@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://vercel.app|%20Full%20Stack%20%26%20Cloud%20Engineer&descAlignY=62&descSize=16&animation=fadeIn" width="100%" />
-</div>
+
 
 
 <p align="center">
