@@ -1,32 +1,45 @@
 <div align="center">
-  <img src="https://vercel.app|%20Aspiring%20Full%20Stack%20%26%20Cloud%20Engineer&descAlignY=60&descSize=16" width="100%" />
+  <img src="https://vercel.app|%20Full%20Stack%20%26%20Cloud%20Engineer&descAlignY=62&descSize=16&animation=fadeIn" width="100%" />
 </div>
 
 <p align="center">
   <a href="https://git.io">
-    <img src="https://herokuapp.com+👋;IT+Student+at+Vietnam-Korea+University+(VKU);Passionate+about+Full+Stack+Development;Exploring+Cloud+Computing+%26+DevOps" alt="Typing SVG" />
+    <img src="https://herokuapp.com+🚀;Sinh+viên+CNTT+-+Đại+học+CNTT+Việt+-+Hàn+(VKU);Đam+mê+lập+trình+Full+Stack+Web;Định+hướng+Cloud+Computing+%26+DevOps" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com" alt="nguyenthanhnhan1208IT" />
+  <img src="https://shields.io" alt="Focus" />
+  <img src="https://shields.io" alt="VKU" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### <img src="https://herokuapp.com👨‍💻+ABOUT+ME+(GIỚI+THIỆU)" alt="About Me" />
 
-- 🎓 **Education:** Information Technology Student at **Vietnam - Korea University of Information and Communication Technology (VKU)**, Da Nang, Vietnam.
-- 🚀 **Career Goal:** Aspiring **Full Stack Developer** & **Cloud Engineer**.
-- 💡 **Interests:** Building scalable web applications, cloud infrastructure, microservices, and automation.
-- 🌱 **Currently Learning:** Cloud Architecture (AWS/GCP), Docker, Kubernetes, and modern Full Stack frameworks.
-- 📫 **How to reach me:** ntnhan2112px@gmail.com` *(Cập nhật lại email chính xác của bạn nếu khác)*
+```yaml
+Profile:
+  Name: "NGUYỄN THÀNH NHÂN"
+  University: "Đại học Công nghệ Thông tin và Truyền thông Việt - Hàn (VKU)"
+  Major: "Công nghệ Thông tin (Information Technology)"
+  Location: "Đà Nẵng, Việt Nam"
+
+Career_Goals:
+  Primary: "Full Stack Developer"
+  Secondary: "Cloud Engineer & DevOps"
+
+Current_Focus:
+  - "Xây dựng ứng dụng Web Full Stack hiện đại, tối ưu hiệu năng"
+  - "Triển khai hệ thống trên nền tảng đám mây (AWS, Google Cloud)"
+  - "Containerization & Tự động hóa với Docker, Linux, CI/CD"
+```
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### <img src="https://herokuapp.com🛠️+TECH+STACK+%26+CLOUD+TOOLS" alt="Tech Stack" />
 
-#### **Frontend & Backend (Full Stack)**
+#### 🟣 Frontend & Backend (Full Stack)
 ![HTML5](https://shields.io)
 ![CSS3](https://shields.io)
 ![JavaScript](https://shields.io)
@@ -35,12 +48,12 @@
 ![Node.js](https://shields.io)
 ![Java](https://shields.io)
 
-#### **Database**
+#### 🔵 Database (Cơ sở dữ liệu)
 ![MySQL](https://shields.io)
 ![PostgreSQL](https://shields.io)
 ![MongoDB](https://shields.io)
 
-#### **Cloud & DevOps**
+#### 🟢 Cloud & DevOps
 ![AWS](https://shields.io)
 ![Google Cloud](https://shields.io)
 ![Docker](https://shields.io)
@@ -49,7 +62,7 @@
 
 ---
 
-### 📊 GitHub Statistics
+### <img src="https://herokuapp.com📊+GITHUB+ANALYTICS+%26+STATS" alt="Stats" />
 
 <div align="center">
   <img height="180em" src="https://vercel.app"/>
@@ -62,9 +75,9 @@
 
 ---
 
-### 🌐 Connect With Me
+### <img src="https://herokuapp.com🌐+CONNECT+WITH+ME" alt="Connect" />
 
-<p align="left">
+<p align="center">
   <a href="https://github.com" target="_blank">
     <img src="https://shields.io" alt="GitHub"/>
   </a>
@@ -82,4 +95,7 @@
 <div align="center">
   <img src="https://vercel.app" width="100%" />
 </div>
+
+
+
 Luôn học hỏi trau dồi bản thân mỗi ngày để tốt hơn
